@@ -12,9 +12,9 @@ They are my solutions to the challenges of freeCodeCamp
 - CSS Flexbox
 - CSS Grid
 - Responsive Web Design Projects
-	- [Build a Tribute Page](https://codepen.io/dasilvaguicesar/pen/jOVgZvE) :heavy_check_mark:  
-	- [Build a Survey Form](https://codepen.io/dasilvaguicesar/pen/eYgOeeR) :heavy_check_mark:
-	- [Build a Product Landing Page](https://codepen.io/dasilvaguicesar/pen/RwKgwGg) :heavy_check_mark:
-	- [Build a Technical Documentation Page](https://codepen.io/dasilvaguicesar/pen/abpXWXW) :heavy_check_mark: 
-	- [Build a Personal Portfolio Webpage](https://codepen.io/dasilvaguicesar/pen/poRGwEE):heavy_check_mark:
-	- [Certification](https://www.freecodecamp.org/certification/dasilvaguicesar/responsive-web-design) :v:
+	- [Build a Tribute Page](https://codepen.io/ssguicesar/pen/jOVgZvE) :heavy_check_mark:  
+	- [Build a Survey Form](https://codepen.io/ssguicesar/pen/eYgOeeR) :heavy_check_mark:
+	- [Build a Product Landing Page](https://codepen.io/ssguicesar/pen/RwKgwGg) :heavy_check_mark:
+	- [Build a Technical Documentation Page](https://codepen.io/ssguicesar/pen/abpXWXW) :heavy_check_mark: 
+	- [Build a Personal Portfolio Webpage](https://codepen.io/ssguicesar/pen/poRGwEE):heavy_check_mark:
+	- [Certification](https://www.freecodecamp.org/certification/ssguicesar/responsive-web-design) :v:
