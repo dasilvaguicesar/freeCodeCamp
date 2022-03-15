@@ -1,6 +1,6 @@
 # [freeCodeCamp](https://www.freecodecamp.org/) Challenge Journey
 ## They are my solutions to the challenges of freeCodeCamp
----
+
 ### [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 
 - Basic HTML and HTML5
@@ -31,9 +31,9 @@
 - Functional Programming
 - Intermediate Algorithm Scripting
 - JavaScript Algorithms and Data Structures Projects
-	- [Palindrome Checker](https://) :heavy_check_mark:  
-	- [Roman Numeral Converter](https://) :heavy_check_mark:
-	- [Caesars Cipher](https://) :heavy_check_mark:
-	- [Telephone Number Validator](https://) :heavy_check_mark: 
-	- [Cash Register](https://) :heavy_check_mark:
+	- [Palindrome Checker](https://github.com/ssguicesar/free-code-camp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/Palindrome%20Checker) :heavy_check_mark:  
+	- [Roman Numeral Converter](https://github.com/ssguicesar/free-code-camp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/Roman%20Numeral%20Converter) :heavy_check_mark:
+	- [Caesars Cipher](https://github.com/ssguicesar/free-code-camp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/Caesars%20Cipher) :heavy_check_mark:
+	- [Telephone Number Validator](https://github.com/ssguicesar/free-code-camp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/Telephone%20Number%20Validator) :heavy_check_mark: 
+	- [Cash Register](https://github.com/ssguicesar/free-code-camp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/Cash%20Register) :heavy_check_mark:
 	- [Certification](https://www.freecodecamp.org/certification/ssguicesar/javascript-algorithms-and-data-structures) :v:
